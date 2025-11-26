@@ -1,2 +1,60 @@
-# Expense-tracker
-Expense Tracker – A Beautiful, Zero-Dependency Personal Finance Dashboard Track income and expenses in Indian Rupees (₹) with real-time balance updates, interactive charts (Income vs Expenses + Category Breakdown), dark/light mode, and persistent storage — all in a single HTML file. No frameworks, no build steps. Just open and go!
+# 💰 Expense Tracker
+
+A sleek, responsive, and feature-rich **personal finance tracker** built with HTML, CSS, and JavaScript. Track your income and expenses, visualize spending with interactive charts, and never lose data thanks to `localStorage` persistence.
+
+## 🚀 Live Demo
+
+> **[Click here to view the live demo](https://vrana-prathap.github.io/Expense-tracker/)** 
+
+
+## ✨ Features
+
+- 🇮🇳 **All amounts in INR (₹)** with proper formatting
+- 📊 **Interactive Charts** (Income vs Expenses + Category Breakdown)
+- 🌓 **Dark/Light Mode** with system preference saving
+- 🏷️ **Smart Category Input** — only shown for expenses
+- 🎨 **Dynamic Balance Color**:
+  - **Green** when balance ≥ 0
+  - **Red** when balance < 0
+- 🗑️ **Delete transactions** with smooth UI
+- 💾 **Data Persistence** using `localStorage`
+- 📱 **Fully Responsive** (mobile, tablet, desktop)
+- 🛠️ **No external dependencies** (except Chart.js & Font Awesome via CDN)
+- 🖼️ **💰 Money Bag Favicon** for instant recognition
+
+
+## 🛠️ How to Use
+
+1. **Clone or download** this project
+2. Open `index.html` in any modern browser (Chrome, Firefox, Edge, Safari)
+3. Start adding:
+   - **Income**: Positive amounts (e.g., `5000`)
+   - **Expenses**: Negative amounts (e.g., `-1200`)
+4. Your data is **automatically saved** in your browser
+
+> 💡 **Tip**: Use the **dark mode toggle** (🌙/☀️) in the top-right corner!
+
+## 🧩 Technologies Used
+
+- **HTML5** – Structure
+- **CSS3** – Styling with Flexbox, Grid, and gradients
+- **JavaScript (Vanilla)** – Logic, DOM manipulation, localStorage
+- **Chart.js** – Interactive data visualization
+- **Font Awesome** – Icons
+- **Google Fonts (Poppins)** – Typography
+
+## 📦 No Build Step Required
+
+This is a **static frontend app** — just open `index.html` and go!  
+No Node.js, npm, or bundlers needed.
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to:
+- Report bugs
+- Suggest features
+- Improve documentation
+
+> Made with ❤️ and 💰  
+> Perfect for personal finance, students, or frontend portfolio projects!
