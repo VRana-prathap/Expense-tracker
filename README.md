@@ -9,7 +9,6 @@ A sleek, responsive, and feature-rich **personal finance tracker** built with HT
 
 ## ✨ Features
 
-- 🇮🇳 **All amounts in INR (₹)** with proper formatting
 - 📊 **Interactive Charts** (Income vs Expenses + Category Breakdown)
 - 🌓 **Dark/Light Mode** with system preference saving
 - 🏷️ **Smart Category Input** — only shown for expenses
@@ -20,8 +19,6 @@ A sleek, responsive, and feature-rich **personal finance tracker** built with HT
 - 💾 **Data Persistence** using `localStorage`
 - 📱 **Fully Responsive** (mobile, tablet, desktop)
 - 🛠️ **No external dependencies** (except Chart.js & Font Awesome via CDN)
-- 🖼️ **💰 Money Bag Favicon** for instant recognition
-
 
 ## 🛠️ How to Use
 
