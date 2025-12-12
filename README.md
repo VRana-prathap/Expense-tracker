@@ -1,26 +1,26 @@
-# 💰 Expense Tracker
+# Expense Tracker
 
 A sleek, responsive, and feature-rich **personal finance tracker** built with HTML, CSS, and JavaScript. Track your income and expenses, visualize spending with interactive charts, and never lose data thanks to `localStorage` persistence.
 
-## 🚀 Live Demo
+## Live Demo
 
 > **[Click here to view the live demo](https://vrana-prathap.github.io/Expense-tracker/)** 
 
 
-## ✨ Features
+## Features
 
-- 📊 **Interactive Charts** (Income vs Expenses + Category Breakdown)
-- 🌓 **Dark/Light Mode** with system preference saving
-- 🏷️ **Smart Category Input** — only shown for expenses
-- 🎨 **Dynamic Balance Color**:
+- **Interactive Charts** (Income vs Expenses + Category Breakdown)
+- **Dark/Light Mode** with system preference saving
+- **Smart Category Input** — only shown for expenses
+- **Dynamic Balance Color**:
   - **Green** when balance ≥ 0
   - **Red** when balance < 0
-- 🗑️ **Delete transactions** with smooth UI
-- 💾 **Data Persistence** using `localStorage`
-- 📱 **Fully Responsive** (mobile, tablet, desktop)
-- 🛠️ **No external dependencies** (except Chart.js & Font Awesome via CDN)
+- **Delete transactions** with smooth UI
+- **Data Persistence** using `localStorage`
+- **Fully Responsive** (mobile, tablet, desktop)
+- **No external dependencies** (except Chart.js & Font Awesome via CDN)
 
-## 🛠️ How to Use
+## How to Use
 
 1. **Clone or download** this project
 2. Open `index.html` in any modern browser (Chrome, Firefox, Edge, Safari)
@@ -29,9 +29,7 @@ A sleek, responsive, and feature-rich **personal finance tracker** built with HT
    - **Expenses**: Negative amounts (e.g., `-1200`)
 4. Your data is **automatically saved** in your browser
 
-> 💡 **Tip**: Use the **dark mode toggle** (🌙/☀️) in the top-right corner!
-
-## 🧩 Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure
 - **CSS3** – Styling with Flexbox, Grid, and gradients
@@ -40,18 +38,10 @@ A sleek, responsive, and feature-rich **personal finance tracker** built with HT
 - **Font Awesome** – Icons
 - **Google Fonts (Poppins)** – Typography
 
-## 📦 No Build Step Required
+## No Build Step Required
 
 This is a **static frontend app** — just open `index.html` and go!  
 No Node.js, npm, or bundlers needed.
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to:
-- Report bugs
-- Suggest features
-- Improve documentation
-
-> Made with ❤️ and 💰  
+> Made with ❤️  
 > Perfect for personal finance, students, or frontend portfolio projects!
