@@ -43,5 +43,4 @@ A sleek, responsive, and feature-rich **personal finance tracker** built with HT
 This is a **static frontend app** — just open `index.html` and go!  
 No Node.js, npm, or bundlers needed.
 
-> Made with ❤️  
-> Perfect for personal finance, students, or frontend portfolio projects!
+> Made with ❤️ 
